@@ -62,7 +62,7 @@ Advanced formulas & KPI design
 
 👤 About Me
 
-KARTHIKEYAN Sekar
+Karthikeyan Sekar
 
 Aspiring Data Analyst | Excel Analytics | Dashboarding
 
