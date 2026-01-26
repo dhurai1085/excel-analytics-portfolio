@@ -63,6 +63,7 @@ Advanced formulas & KPI design
 👤 About Me
 
 KARTHIKEYAN Sekar
+
 Aspiring Data Analyst | Excel Analytics | Dashboarding
 
 I am actively building projects to strengthen my analytical skills and create a strong data analytics portfolio.
