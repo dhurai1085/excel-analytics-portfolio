@@ -37,6 +37,17 @@ Discount impact on margins
 Customer revenue Pareto (80/20) analysis
 Interactive executive-style dashboard
 
+2 .  Sales Performance Analytics Dashboard
+
+Project Description:
+  Executive-level Excel analysis examining the impact of customer demographics, loyalty programs, discounts, and purchase decision time on revenue and satisfaction. The analysis highlights that loyalty members and fast-decision customers drive higher purchase value, while broad discounting compresses spend, supporting the need for targeted loyalty-led and data-driven promotional strategies.
+
+  Key Insights:
+ Loyalty members generate higher average purchase value, indicating that loyalty programs attract higher-value customers.
+Discounts increase purchase frequency but lower average purchase value, suggesting margin trade-offs.
+Customers who decide faster tend to spend more per purchase, indicating impulse-driven behavior.  
+
+
 📊 Includes:
 
 Interactive Excel dashboard
